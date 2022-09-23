@@ -1,5 +1,12 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyesu%20Lee&fontSize=70" /></div>
-<div align="center">📱 Junior Mobile Developer 💻</div></br>
+<div align="center">📱 Junior Mobile Developer 💻</br></br></div>
+<div align="center">
+  <a href="mailto:hyesulee0608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesulee0608@gmail.com"/> hyesulee0608@gmail.com</a>
+</div>
+<div align="center">
+  <a href="https://www.linkedin.com/in/hyesu-lee-6a0602168/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/hyesu-lee-6a0602168/"/> linkedin.com/in/hyesu-lee-6a0602168</a></div>
+</div>  
+</br>
 <div align="center">
 📚 Tech Stack 📚</br>
 ✨ Platforms & Languages ✨
