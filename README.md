@@ -20,7 +20,7 @@
 </div>
 </br>
 <div align="center">
-🛠 Frameworks & Toolds 🛠
+🛠 Frameworks & Tools 🛠
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
