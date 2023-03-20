@@ -1,5 +1,5 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌰Hyesu%20Lee🐿&fontSize=70" /></div>
-<div align="center">📱 Junior Mobile Developer 💻</br></br></div>
+<div align="center">📱 Mobile Application Developer 💻</br></br></div>
 <div align="center">
   <a href="mailto:hyesulee0608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesulee0608@gmail.com"/> hyesulee0608@gmail.com</a>
 </div>
