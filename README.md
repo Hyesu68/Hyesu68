@@ -38,9 +38,9 @@
 <div align="center">
   <table>
     <tr>
-      <td>BerryMe</td>
-      <td>Smart Fishbowl(IoT)</td>
-      <td>SeoulAble</td>
+      <td><a href="https://github.com/Hyesu68/BerryMe">BerryMe</a></td>
+      <td><a href="https://github.com/Hyesu68/SmartFishBowl">Smart Fishbowl (IoT)</a></td>
+      <td><a href="https://github.com/Hyesu68/SmartFishBowl">SeoulAble</a></td>
     </tr>
     <tr>
       <td><img src="https://user-images.githubusercontent.com/40760917/222329160-4a9d610d-18d5-4cca-b7b4-92603b21744a.jpg" width="200" style="display:block; margin:0 auto;"></td>
