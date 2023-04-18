@@ -1,4 +1,4 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=🌰Hyesu%20Lee🐿&fontSize=70" /></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyesu%20Lee&fontSize=70" /></div>
 <div align="center">📱 Mobile Application Developer 💻</br></br></div>
 <div align="center">
   <a href="mailto:hyesulee0608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesulee0608@gmail.com"/> hyesulee0608@gmail.com</a>
@@ -32,7 +32,26 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 </div>
+
 <br><br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>BerryMe</td>
+      <td>Smart Fishbowl(IoT)</td>
+      <td>SeoulAble</td>
+    </tr>
+    <tr>
+      <td><img src="https://user-images.githubusercontent.com/40760917/222329160-4a9d610d-18d5-4cca-b7b4-92603b21744a.jpg" width="200" style="display:block; margin:0 auto;"></td>
+      <td><img src="https://user-images.githubusercontent.com/40760917/190957913-e0156e05-3ed4-4982-ad81-4baa87840e20.png" width="200" style="display:block; margin:0 auto;"></td>
+      <td><img src="https://user-images.githubusercontent.com/40760917/191132975-d1aaf9ee-ea1d-491c-87d5-061345de8e18.png" width="200" style="display:block; margin:0 auto;"></td>
+    </tr>
+  </table>
+</div>
+
+<br><br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyesu68&layout=compact"></br>
   <img src="https://github-readme-stats.vercel.app/api?username=Hyesu68&show_icons=true">
