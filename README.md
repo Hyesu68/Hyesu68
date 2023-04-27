@@ -43,12 +43,13 @@
       <td><a href="https://github.com/Hyesu68/SmartFishBowl">SeoulAble</a></td>
     </tr>
     <tr>
-      <td><img src="https://user-images.githubusercontent.com/40760917/222329160-4a9d610d-18d5-4cca-b7b4-92603b21744a.jpg" width="200" style="display:block; margin:0 auto;"></td>
+      <td><img src="https://user-images.githubusercontent.com/40760917/234770777-dd8379c2-5b15-4b46-9494-5684b0bcd699.jpg" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://user-images.githubusercontent.com/40760917/190957913-e0156e05-3ed4-4982-ad81-4baa87840e20.png" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://user-images.githubusercontent.com/40760917/191132975-d1aaf9ee-ea1d-491c-87d5-061345de8e18.png" width="200" style="display:block; margin:0 auto;"></td>
     </tr>
   </table>
 </div>
+
 
 <br><br>
 
