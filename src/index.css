@@ -1,13 +1,274 @@
+/* Reset CSS */
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+/* Homepage Layout */
+.HomepageLayout {
+  animation: fadein 1.4s;
+  display: grid;
+  grid-auto-columns: repeat(1, 1fr);
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+/* Header 섹션 스타일 */
+.header-class {
+  position: fixed;
+  width: 100%;
+  background-color: #333; /* 배경색 변경 */
+  padding: 10px 0; /* 상하 10px, 좌우 0px 여백 추가 */
+}
+
+.bar_menu {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  justify-content: center; /* 메뉴 가운데 정렬 */
+}
+
+.bar_li {
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
+  color: #fff; /* 글자색 변경 */
+  opacity: 0.8; /* 투명도 조절 */
+  margin: 0 15px; /* 메뉴 아이템 간 여백 추가 */
+  transition: opacity 0.3s ease-in-out; /* 부드러운 효과 추가 */
+}
+
+.bar_li:hover {
+  opacity: 1; /* 호버 시 투명도 변경 */
+}
+
+/* Typer Section */
+.typer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(./me.jpg);
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  width: 100%;
+}
+
+.typer_black {
+  height: 100vh;
+  width: 100%;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.typer_text {
+  font-family:
+    Noto Sans KR,
+    sans-serif;
+  font-size: 4vw;
+  white-space: pre;
+  line-height: 1;
+  letter-spacing: 0.1rem;
+  padding-top: 0.2em;
+}
+
+/* About Me Section */
+.about_me {
+  background: #f8f8f8;
+  padding: 100px 0;
+}
+
+.about_me_title {
+  text-align: center;
+}
+
+.heading {
+  font-size: 2.8em;
+  color: #333;
+}
+
+.about_me_content {
+  font-family: "Noto Sans KR", sans-serif;
+  margin: 2rem 0;
+  padding: 1rem;
+  text-align: center;
+}
+
+/* Skill Section */
+.skill {
+  height: 100%;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 5rem;
+  background: #e7e6e6;
+}
+
+.skill_heading {
+  font-family:
+    Noto Sans KR,
+    sans-serif;
+  position: relative;
+  display: inline-block;
+  font-size: 2.4em;
+  font-weight: 400;
+  margin: 30px 0;
+}
+
+.skill_container {
+  display: flex;
+  justify-content: center; /* 이미지들을 수평 중앙에 배치 */
+  align-items: center;
+}
+
+.skill_image {
+  text-align: center;
+  display: inline-block;
+  width: 114px;
+  height: 116px;
+  border-radius: 30px 30px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin-right: 2rem;
+  box-shadow:
+    0 3px 6px rgba(0, 0, 0, 0.2),
+    0 3px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* .skill_label {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #000;
+  border-radius: 30px 30px;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  opacity: 0.8;
+  font-weight: 400;
+  font-size: 1rem;
+  color: #fff;
+  visibility: hidden;
+} */
+
+/* Project Section */
+.project {
+  background: #379bff;
+  border-top: 2px solid #379bff;
+  height: 100%;
+  width: 100%;
+  border-bottom: 2px solid #fff;
+}
+
+.project_title {
+  text-align: center;
+  color: #fff;
+  margin-bottom: 3em;
+}
+
+.project_hedding {
+  position: relative;
+  display: inline-block;
+  font-size: 2.4em;
+  font-weight: 400;
+  margin: 30px 0;
+}
+
+/* .project_row {
+  display: flex;
+} */
+
+.project_box {
+  height: 100%;
+  width: 100%;
+  max-width: 60vw;
+  border-radius: 4px;
+  margin: 0 auto 30px;
+  background: #fff;
+  box-shadow:
+    0 3px 6px rgba(0, 0, 0, 0.2),
+    0 3px 6px rgba(0, 0, 0, 0.2);
+  display: flex;
+}
+
+.project_image {
+  width: 40%;
+  flex-shrink: 0;
+}
+
+.project_img {
+  width: 100%;
+  height: 100%;
+}
+
+.box_info {
+  font-family:
+    Gothic A1,
+    sans-serif;
+  padding: 5px;
+  margin-left: 2rem;
+}
+
+.box_title {
+  display: block;
+  font-size: 1.7em;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-weight: bold;
+}
+
+.box_company {
+  font-weight: 700;
+  font-size: 1.3em;
+}
+
+.box_content {
+  font-weight: 500;
+  font-size: 1.1em;
+}
+
+/* Contact Section */
+.contact {
+  font-family: Roboto, sans-serif;
+  height: 50vh;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.contact_img_container {
+  display: flex; /* 이미지들을 가로로 배치하기 위해 flex 사용 */
+  justify-content: center; /* 이미지들을 수평 가운데 정렬 */
+  align-items: center;
+}
+
+.contact_heading {
+  font-family:
+    Noto Sans KR,
+    sans-serif;
+  position: relative;
+  display: inline-block;
+  font-size: 2.4em;
+  font-weight: 400;
+  margin: 30px 0;
+}
+
+.contact img {
+  width: 90px;
+  height: 90px;
+  display: block;
+  margin: 0 20px auto;
 }
