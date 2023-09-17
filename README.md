@@ -1,5 +1,8 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyesu%20Lee&fontSize=70" /></div>
 <div align="center">📱 Mobile Application Developer 💻</br></br></div>
+
+<div align="center">
+  <a href="https://hyesu68.github.io/Hyesu68/"><img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat-square&logo=LinkedIn&logoColor=white&link=https://hyesu68.github.io/Hyesu68/"/> Portfolio </a></div>
 <div align="center">
   <a href="mailto:hyesulee0608@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyesulee0608@gmail.com"/> hyesulee0608@gmail.com</a>
 </div>
@@ -24,6 +27,7 @@
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=flat&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat&logo=Android Studio&logoColor=white"/></br>
@@ -38,14 +42,14 @@
 <div align="center">
   <table>
     <tr>
+      <td><a href="https://github.com/Hyesu68/Picstagram">Picstagram</a></td>
       <td><a href="https://github.com/Hyesu68/MyMovieStar">My Movie Star</a></td>
       <td><a href="https://github.com/Hyesu68/BerryMe">BerryMe</a></td>
-      <td><a href="https://github.com/Hyesu68/SmartFishBowl">Smart Fishbowl (IoT)</a></td>
     </tr>
     <tr>
+      <td><img src="https://github.com/Hyesu68/Hyesu68/assets/40760917/2a9a8485-e06c-42d0-addf-393575ef6f54" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://github.com/Hyesu68/Hyesu68/assets/40760917/99e351d9-1b4c-4366-be2f-2309585401e6" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://user-images.githubusercontent.com/40760917/234770777-dd8379c2-5b15-4b46-9494-5684b0bcd699.jpg" width="200" style="display:block; margin:0 auto;"></td>
-      <td><img src="https://user-images.githubusercontent.com/40760917/190957913-e0156e05-3ed4-4982-ad81-4baa87840e20.png" width="200" style="display:block; margin:0 auto;"></td>
     </tr>
   </table>
 </div>
