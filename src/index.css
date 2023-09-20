@@ -6,6 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
 }
 
 /* Homepage Layout */
@@ -190,10 +191,10 @@ body {
 
 .project_box {
   height: 100%;
-  width: 100%;
-  max-width: 60vw;
+  width: 90%;
+  /* max-width: 60vw; */
   border-radius: 4px;
-  margin: 0 auto 30px;
+  margin: 30px;
   background: #fff;
   box-shadow:
     0 3px 6px rgba(0, 0, 0, 0.2),
