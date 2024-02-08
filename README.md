@@ -42,14 +42,14 @@
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://github.com/Hyesu68/Picstagram">Picstagram</a></td>
       <td><a href="https://github.com/Hyesu68/MyMovieStar">My Movie Star</a></td>
       <td><a href="https://github.com/Hyesu68/BerryMe">BerryMe</a></td>
+      <td><a href="https://github.com/Hyesu68/SmartFishBowl">SmartFishBowl</a></td>
     </tr>
     <tr>
-      <td><img src="https://github.com/Hyesu68/Hyesu68/assets/40760917/2a9a8485-e06c-42d0-addf-393575ef6f54" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://github.com/Hyesu68/Hyesu68/assets/40760917/99e351d9-1b4c-4366-be2f-2309585401e6" width="200" style="display:block; margin:0 auto;"></td>
       <td><img src="https://user-images.githubusercontent.com/40760917/234770777-dd8379c2-5b15-4b46-9494-5684b0bcd699.jpg" width="200" style="display:block; margin:0 auto;"></td>
+      <td><img src="https://user-images.githubusercontent.com/40760917/190957913-e0156e05-3ed4-4982-ad81-4baa87840e20.png" width="200" style="display:block; margin:0 auto;"></td>
     </tr>
   </table>
 </div>
